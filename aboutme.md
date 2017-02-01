@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I am the best ever
 ---
+TL;DR: Brian is a first-year student who studies computer science and vocal performance at Allegheny College, and is intrigued by how much technology has impacted his social and professional life.
 
-My name is Inigo Montoya. I have the following qualities:
+Brian was born in Tampa, Florida in 1997. He was the second of two children, and his parents were able to give him everything he could have possibly needed. They always worked hard to make sure his needs were fulfilled and that he could experiment with anything he pleased. He spent a lot of time playing with computers both understanding vaguely how they work and playing video games on them.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Brian attended Academy at the Lakes and graduated in 2016. There, he discovered his love for forensic science, but has no toleration for blood so he feared his future in this field was over. His parents, however, showed him all of the possible areas of study in forensic science, and he found a strong interest in computer science. Brian has always been fascinated with computers, and his parents fueled his interest with lessons in computer hardware and programs from a young age, but he always wanted to learn more about their intricacies. Brian also took many AP courses in English but learned the most from his AP English Language teacher Kim Vreeland. Vreeland taught Brian that the key to writing is through use of rhetoric. The fact that he is currently blogging in a college course would please her greatly.
 
-What else do you need?
+Brian has often had trouble making friends, but has played video games since he was young. His personal favorites include Team Fortress 2, Smite, and Overwatch. These games have also netted him some new friendships whether temporary while in a match or still withstanding to this day. He met his best friend Ryan in 2013 through a mutual friend in Team Fortress 2. Ryan lives in Alabama, but Brian still considers him his best friend despite having never met face-to-face. To this day they play many video games while talking about funny things that happened during their days. This friendship would not have been made possible without the advent on the Internet, and Brian is grateful to have met such an important person in his personal life.
 
-### my history
+After Academy, Brian applied to and was approved for admission to Allegheny College in 2016. There he decided to test his desire to study computer science. His findings were astounding; he already knows that he wants to major in the field and find opportunities to study the field at all times! Brian is also what many would call a "choir nerd," and is planning to major in vocal performance. He participates in multiple ensembles at the college; he is a member of both the Men's Ensemble and Choir Ensemble, which is co-ed. Although he has a strong passion for music, his passion for computer science always drives him to prioritize his discoveries and innovations within the field.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Brian's current freshman seminar course is focused around the study of the Internet and how it impacts the world around us. He has often found himself on social media sites such as Facebook and Twitter and has noticed how much these sites impact if not control people's lives. Also, as noted before, he would not have met his best friend without the creation of the Internet. Brian is fascinated by how quickly technology has overrun and centralized our society and is excited to use what he learns in his potential future job in the field of forensics. Knowledge about general behavioral tendencies on the Internet as opposed to real life will always give a computer forensicist the upper hand in busting a case, and it will greatly impact one's life for the better, especially Brian's own.
