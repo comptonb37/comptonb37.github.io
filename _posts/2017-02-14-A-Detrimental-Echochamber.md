@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Art of Speedrunning Defined
-subtitle: How Super Metroid created a play-through style and a community.
+title: A Detrimental Echochamber
+subtitle: A work in progress about how YouTube has become an echochamber of information and entertainment.
 image: /img/YouTube.png
 ---
 
